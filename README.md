@@ -1,6 +1,8 @@
 pull master branch
 hit npm i command on terminal
 
+run cmd node --watch server.js
+
 api===============>
 
 upload 
